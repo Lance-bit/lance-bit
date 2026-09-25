@@ -1,5 +1,9 @@
 # Abdulrhman
 
+## Contact
+LinkedIn: https://www.linkedin.com/in/abdulrhman-emad-25352b1bb/
+Email: abdulrhmanimad54@gmail.com
+
 **AI Engineer — Multi-Agent Systems, Computer Vision, RAG**
 
 Cairo, Egypt
@@ -85,11 +89,3 @@ Evidence-grounded RAG system for querying NICE clinical guidelines, built with a
 ## GitHub Stats
 
 ![Abdulrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lance-bit&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
-## Contact
-
-<!-- Replace with your real links -->
-LinkedIn: https://www.linkedin.com/in/abdulrhman-emad-25352b1bb/
-Email: abdulrhmanimad54@gmail.com
