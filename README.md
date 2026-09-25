@@ -17,7 +17,7 @@ AI Engineer focused on building production AI systems — multi-agent orchestrat
 
 ---
 
-## Selected Work
+## FlagShip Projects
 
 ### BASIRA — Branch Intelligence & Queue Management
 
