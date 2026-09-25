@@ -1,12 +1,13 @@
 # Abdulrhman
+**AI Engineer — Multi-Agent Systems, Computer Vision, RAG**
+
+Cairo, Egypt
+
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/abdulrhman-emad-25352b1bb/
 Email: abdulrhmanimad54@gmail.com
 
-**AI Engineer — Multi-Agent Systems, Computer Vision, RAG**
-
-Cairo, Egypt
 
 ---
 
