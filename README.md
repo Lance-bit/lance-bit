@@ -84,9 +84,3 @@ Evidence-grounded RAG system for querying NICE clinical guidelines, built with a
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## GitHub Stats
-
-![Abdulrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lance-bit&show_icons=true&theme=default&hide_border=true&count_private=true)
