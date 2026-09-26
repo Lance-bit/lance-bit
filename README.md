@@ -4,6 +4,12 @@
 
 Cairo, Egypt
 
+## Contact
+
+LinkedIn: [abdulrhman-emad](https://www.linkedin.com/in/abdulrhman-emad-25352b1bb/)
+Email: [abdulrhmanimad54@gmail.com](mailto:abdulrhmanimad54@gmail.com)
+
+
 ---
 
 ## About
@@ -48,7 +54,7 @@ AI-powered **fashion content generation** platform — virtual try-on, pattern g
 <tr>
 <td width="100%" valign="top" colspan="2">
 
-### 🏥 [Eva AI](https://github.com/IbrahimAbdelsattar/Eva-AI) — team project, shared with permission
+### 🏥 [Eva AI](https://github.com/IbrahimAbdelsattar/Eva-AI) —
 
 Evidence-grounded **clinical RAG** system for querying NICE clinical guidelines, built with a hackathon teammate. Hybrid dense + BM25 + reranker retrieval, fail-closed architecture, full source-page citation trace-back. My contributions: guardrails (prompt-injection defense, out-of-scope and dosage-refusal logic) and rate limiting.
 
@@ -114,16 +120,3 @@ Evidence-grounded **clinical RAG** system for querying NICE clinical guidelines,
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **Also used in projects:** XGBoost · LightGBM · TimescaleDB
-
----
-
-## GitHub Stats
-
-![Abdulrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lance-bit&show_icons=true&theme=transparent&hide_border=true)
-
----
-
-## Contact
-
-LinkedIn: [abdulrhman-emad](https://www.linkedin.com/in/abdulrhman-emad-25352b1bb/)
-Email: [abdulrhmanimad54@gmail.com](mailto:abdulrhmanimad54@gmail.com)
