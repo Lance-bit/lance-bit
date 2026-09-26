@@ -1,13 +1,8 @@
 # Abdulrhman
+
 **AI Engineer — Multi-Agent Systems, Computer Vision, RAG**
 
 Cairo, Egypt
-
-
-## Contact
-LinkedIn: https://www.linkedin.com/in/abdulrhman-emad-25352b1bb/
-Email: abdulrhmanimad54@gmail.com
-
 
 ---
 
@@ -17,70 +12,118 @@ AI Engineer focused on building production AI systems — multi-agent orchestrat
 
 ---
 
-## FlagShip Projects
+## Flagship Work
 
-### BASIRA — Branch Intelligence & Queue Management
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Multi-agent platform for real-time branch video analytics, built for a real client. Tracks customers and staff, computes wait and service times, and surfaces structured metrics through a live dashboard.
+### 🎥 [BASIRA](https://github.com/lance-bit/BASIRA)
 
-- Computer vision: YOLOv8 + ByteTrack for detection and tracking
-- Orchestration: LangGraph, with Groq/LLaMA and an offline Ollama fallback
-- Backend: FastAPI + WebSockets, TimescaleDB
-- Frontend: Streamlit
+Multi-agent **branch intelligence** platform for real-time video analytics, built for a real client. Tracks customers and staff, computes wait and service times, and surfaces metrics through a live dashboard.
 
-[Repository →](https://github.com/lance-bit/BASIRA)
+![Stars](https://img.shields.io/github/stars/lance-bit/BASIRA?style=flat&color=yellow&label=stars)
+![Last Commit](https://img.shields.io/github/last-commit/lance-bit/BASIRA?style=flat&label=last%20commit)
 
-### AI Fashion Studio
+![YOLOv8](https://img.shields.io/badge/YOLOv8%20%2B%20ByteTrack-00FFFF?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
-AI-powered fashion content generation platform, built during an engineering internship at Beyond Apps Group. Virtual try-on, pattern generation, style transfer, and AI photoshoot generation through a LangGraph-orchestrated pipeline.
+</td>
+<td width="50%" valign="top">
 
-- Backend: FastAPI, LangGraph, Fal AI (Gemini Flash for prompts, Nano Banana for image generation)
-- Frontend: Streamlit
+### 👗 [AI Fashion Studio](https://github.com/lance-bit/ai-fashion-studio)
 
-[Repository →](https://github.com/lance-bit/ai-fashion-studio)
+AI-powered **fashion content generation** platform — virtual try-on, pattern generation, style transfer, and AI photoshoots through a LangGraph-orchestrated pipeline.
 
-### Eva AI — Clinical Decision Support
+![Stars](https://img.shields.io/github/stars/lance-bit/ai-fashion-studio?style=flat&color=yellow&label=stars)
+![Last Commit](https://img.shields.io/github/last-commit/lance-bit/ai-fashion-studio?style=flat&label=last%20commit)
 
-Evidence-grounded RAG system for querying NICE clinical guidelines, built with a hackathon teammate. Hybrid dense + BM25 + reranker retrieval, with full source-page citation trace-back and a fail-closed architecture — no answer path bypasses retrieval.
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-- My contributions: guardrails (prompt-injection defense, out-of-scope and dosage-refusal logic) and rate limiting
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
 
-[Repository →](https://github.com/IbrahimAbdelsattar/Eva-AI) — team project
+### 🏥 [Eva AI](https://github.com/IbrahimAbdelsattar/Eva-AI) — team project, shared with permission
+
+Evidence-grounded **clinical RAG** system for querying NICE clinical guidelines, built with a hackathon teammate. Hybrid dense + BM25 + reranker retrieval, fail-closed architecture, full source-page citation trace-back. My contributions: guardrails (prompt-injection defense, out-of-scope and dosage-refusal logic) and rate limiting.
+
+![Stars](https://img.shields.io/github/stars/IbrahimAbdelsattar/Eva-AI?style=flat&color=yellow&label=stars)
+![Last Commit](https://img.shields.io/github/last-commit/IbrahimAbdelsattar/Eva-AI?style=flat&label=last%20commit)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2?style=flat)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=py,cpp,fastapi,flask,pytorch,tensorflow,sklearn,opencv,docker,aws,mysql,postgres,linux,git" />
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-**AI / LLM**
+**Agentic AI & LLMs**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
-
-**Computer Vision**
-
-![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-00FFFF?style=flat)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white)
-
-**RAG & Retrieval**
-
 ![FAISS](https://img.shields.io/badge/FAISS-4B8BBE?style=flat)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-8A2BE2?style=flat)
 
-**Other**
+*Multi-agent orchestration · RAG · embedding models · LLM fine-tuning · Gemini, GPT-4o & LLaMA integrations*
 
-![XGBoost](https://img.shields.io/badge/XGBoost-0066B2?style=flat)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=flat)
+**Computer Vision**
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-333333?style=flat)
+
+*Faster R-CNN · Mask R-CNN · U-Net · SAM2 · classification, detection & segmentation · transfer learning · data augmentation*
+
+**Deep Learning & NLP**
+
+![Hugging Face Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+*Attention mechanisms · RNN / LSTM / GRU · GANs · autoencoders · CLIP · BLIP-2 · tokenization · text vectorization*
+
+**Backend & Deployment**
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+
+*REST APIs*
+
+**Data Engineering**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+
+*ETL/ELT · Informatica PowerCenter · star schema · SCD Type 2*
+
+**Languages & Tools**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**Also used in projects:** XGBoost · LightGBM · TimescaleDB
+
+---
+
+## GitHub Stats
+
+![Abdulrhman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lance-bit&show_icons=true&theme=transparent&hide_border=true)
+
+---
+
+## Contact
+
+LinkedIn: [abdulrhman-emad](https://www.linkedin.com/in/abdulrhman-emad-25352b1bb/)
+Email: [abdulrhmanimad54@gmail.com](mailto:abdulrhmanimad54@gmail.com)
