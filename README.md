@@ -71,7 +71,7 @@ Evidence-grounded **clinical RAG** system for querying NICE clinical guidelines,
 
 ---
 
-## Tech Stack
+## Tech Arsenal
 
 <img src="https://skillicons.dev/icons?i=py,cpp,fastapi,flask,pytorch,tensorflow,sklearn,opencv,docker,aws,mysql,postgres,linux,git" />
 
